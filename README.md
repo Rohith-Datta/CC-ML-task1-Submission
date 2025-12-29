@@ -4,8 +4,8 @@
 This repository contains the complete submission for the assigned task.
 
 ## Files Included
-- `analysis_notebook(1).ipynb` – Google Colab notebook with full implementation
+- `analysis_notebook.ipynb` – Google Colab notebook with full implementation
 - `predictions.csv` – predictions obtained
-- `findings_report(final).pdf` – Project explanation
+- `findings_report.pdf` – Project explanation
 
 All results and outputs are included in the notebook.
